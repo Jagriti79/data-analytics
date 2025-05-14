@@ -1,49 +1,23 @@
-# Customer Churn Prediction Tool
+Welcome to my **Data Analytics Portfolio**, a curated collection of real-world mini-projects that demonstrate my skills in data cleaning, analysis, visualization, and predictive modeling.
 
-A Google Colab-based churn prediction tool that allows users to **upload a CSV file** and receive predictions using a **pre-trained machine learning model**. Ideal for business analysts and data science learners who want to test churn modeling interactively.
-
----
-
-## Overview
-
-This project uses a machine learning model trained to predict customer churn based on historical data. The notebook is designed to run in **Google Colab**, making it simple to use with no local setup required.
-
-Users can:
-- Upload their own dataset
-- Automatically preprocess and validate input
-- Generate predictions (churned or not)
-- Download the prediction results
+Each project is housed in its own folder with:
+- Jupyter notebooks or dashboards
+- Cleaned datasets (or dataset references)
+- A dedicated `README.md` explaining the goal, approach, and key insights
 
 ---
 
-## How to Use
+##  Projects Overview
 
-1. **Open the notebook** in [Google Colab](https://colab.research.google.com/).
-2. **Upload your CSV file** containing customer data.
-3. The tool will:
-   - Load and preprocess the data
-   - Run the pre-trained model
-   - Output churn predictions
-4. Optionally, **download the results** as a new CSV file.
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔹 [Customer Churn Prediction](./project-2-customer-churn) | Predict customer churn using classification models | Python, Scikit-learn, Seaborn |
 
 ---
 
-##  Model Details
+##  Tools & Technologies
 
-- **Algorithm:** Random Forest / Logistic Regression (customizable)
-- **Input:** Customer demographic and usage features
-- **Output:** `Churn` prediction (Yes/No or 1/0)
-- **Training Dataset:** [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn) (or your custom dataset)
-
----
-
-##  Technologies Used
-
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Pickle (for model serialization)
-- Google Colab
-- Matplotlib / Seaborn (optional for visualizations)
-
----
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Platforms**: Jupyter Notebook, Power BI  
+- **Version Control**: Git & GitHub  
