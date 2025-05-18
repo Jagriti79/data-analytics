@@ -11,7 +11,8 @@ Each project is housed in its own folder with:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🔹 [Customer Churn Prediction](./project-2-customer-churn) | Predict customer churn using classification models | Python, Scikit-learn, Seaborn |
+| 🔹 [Customer Churn Prediction](./project-1-customer-churn) | Predict customer churn using classification models | Python, Scikit-learn, Seaborn |
+| 🔹 [Employee Management System](./project-2-employee-management-system) | Employee Management system | Python, Scikit-learn, Seaborn |
 
 ---
 
